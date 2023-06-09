@@ -98,7 +98,8 @@ License
 The Cinema App is open source and available under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 Contact
 
-For any questions or inquiries, please contact me at [your-email@example.com].
+For any questions or inquiries, please contact me at mmohammud2005@gmail.com.
+
 Acknowledgments
 
 This project was inspired by the love for movies and the desire to create a convenient cinema booking experience for users. I would like to thank the React.js community for their amazing tools and resources that made this app possible.
